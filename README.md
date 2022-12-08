@@ -7,6 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<h2>Teams / Group 6 : </h2>
+<ul>
+  <li><b>Ferry Salim (202143502676)</b> as Frontend Engineer (website), and Desktop Engineer</li>
+  <li><b>Rionggo Rahardi (202143501540)</b> as Frontend Engineer (website), and Desktop Engineer</li>
+  <li><b>Al-fariqy Raihan Azhwar (202143501514)</b> as Backend Engineer, Desktop Engineer and DevOps / Site Reliability Engineer</li>
+  <li><b>Amelia Azra Pakaya (202143501538)</b> as Business Analyst and Documentation Writer</li>
+  <li><b>Fawwaz Ramadhan (202143501530)</b> as UX Researcher and UI Designer</li>
+</ul>
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
